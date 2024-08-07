@@ -41,5 +41,34 @@ Now you have access to db:
 
 a-r collection is created manully from UI.
 
+
+## Postgres setup
+
+Access using pgadmin:
+
+![postgres start](media/005.png)
+
+Enter credentials which is configured in yaml
+
+![credential postgres](media/006.png)
+
+Welcome page:
+
+![alt text](media/007.png)
+
+There is no server, we can create one for use.
+
+Register server:
+
+![register server](media/008.png)
+
+Setuping server with configurations:
+
+![alt text](media/009.png)
+
+![alt text](media/010.png)
+
+
+
 #### Happy coding,
 ## A R
